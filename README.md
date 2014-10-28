@@ -1,7 +1,7 @@
 Silex with Docker
 =================
 
-This is a sample application that has the Silex PHP framework bundled in a docker container.
+This is a base template for a [Silex](http://silex.sensiolabs.org/) application with Nginx and PHP-FPM, all inside a docker container. 
 
 # License
 Copyright 2014 James Norman
